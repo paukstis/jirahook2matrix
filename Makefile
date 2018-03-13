@@ -1,5 +1,8 @@
 OUT = jirahook2matrix
-VERSION != git describe --always --long
+# for BSD make
+#VERSION != git describe --always --long
+# for GNU make
+VERSION = $(shell git describe --always --long)
 
 all: build
 
