@@ -1,0 +1,14 @@
+{
+  "DEBUG": "YES",
+  "ChangelogTrigger": "Package Name",
+  "ListenPort": ":8082",
+  "ListenPath": "/23a7f539260611e888de90e2ba7e89fc",
+  "MatrixURL": "https://matrix.exemple.org/_matrix/client/r0/rooms",
+  "Room": "%21CChhykbDopIiFklmsZ:matrix.exemple.org",
+  "Token": "ABCDEF01234567890",
+  "Type": "m.notice",
+  "AllowedIP": "192.168.1.99",
+  "IssueUrlPrefix": "[JIRA-Issue] ",
+  "ReporterPrefix": " reporter: ",
+  "SummaryPrefix": ", summary: "
+}
